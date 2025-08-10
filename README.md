@@ -1,8 +1,3 @@
-¡Por supuesto! Un buen `README.md` es esencial para cualquier proyecto en GitHub. Hace que sea fácil para otros (y para tu futuro yo) entender la arquitectura, el propósito y cómo interactuar con los contratos.
-
-Aquí tienes un `README.md` completo y detallado. Está escrito en Markdown, así que puedes copiarlo y pegarlo directamente en un archivo `README.md` en la raíz de tu repositorio de Git.
-
----
 
 # TAQI - Backend de Contratos Inteligentes
 
